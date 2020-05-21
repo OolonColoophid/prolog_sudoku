@@ -5,6 +5,10 @@ finite domain constraint programming library, [[https://www.swi-prolog.org/man/c
 
 ** Example query
 
+Variables are mapped to places on the Sudoku grid like this:
+
+[[Variable_mapping.png]]
+
 Load the sudook.pl file into your Prolog interpreter.
 
 You'll see there is part of an example Sudoku already included in the .pl file. You can see the complete solution using this query: 
