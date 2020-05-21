@@ -5,7 +5,7 @@ finite domain constraint programming library, [[https://www.swi-prolog.org/man/c
 
 ** Example query
 
-Variables are mapped to places on the Sudoku grid like this:
+Variables are mapped to places on the Sudoku grid like this (some values are pre-populated from a Sudoku starting position):
 
 [[Variable_mapping.png]]
 
